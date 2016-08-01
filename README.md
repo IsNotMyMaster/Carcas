@@ -1,6 +1,12 @@
 # Carcas
 Carcas-shop
 
-##headings
+##Header
 
-###headings
+##Nav
+
+##Block
+
+##Article
+
+##Footer
